@@ -10,7 +10,7 @@ FolderSorter 是一个用于 Windows 的简易文件夹分类助手。
 
 它可以帮助用户快速整理大量文件夹，逐个查看内容，并将整个文件夹移动到指定位置。
 
-![FolderSorter 软件界面截图](screenshot.png)
+![FolderSorter 软件界面截图](FolderSorter.png)
 
 ## 功能
 
