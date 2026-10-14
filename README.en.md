@@ -1,6 +1,6 @@
-[中文](README.md) | **English**
-
 # FolderSorter
+
+[中文](README.md) | **English**
 
 ---
 
