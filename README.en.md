@@ -10,7 +10,7 @@ FolderSorter is a simple Windows tool for organizing folders.
 
 It helps users organize a large number of folders by reviewing them one by one and moving folders to selected locations.
 
-![FolderSorter screenshot](screenshot.png)
+![FolderSorter screenshot](FolderSorter.png)
 
 ## Features
 
