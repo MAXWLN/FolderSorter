@@ -1,6 +1,6 @@
 # FolderSorter - 文件夹分类助手
 
-**中文** | [English](README.en.md)
+[中文](README.md) | [English](README.en.md)
 
 ---
 
